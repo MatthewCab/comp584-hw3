@@ -1,0 +1,13 @@
+Using the chrome inspect
+Pros:
+    1. looking at styles lets you see how things on the website can changed based on selecting and unselecting check boxes. On the element style image you can see that the 2 buttons are different sizes
+    because i unchecked the font size for the "click here to find where pepsi products are sold" button. I also unchecked the background color for the "click here to view all current pepsi flavors" button and 
+    after it's unchecked you can see how the text is still readable but it is now only surrounded by a red button
+    2. you can also hover over the different parts of the code and it will show you what part of the website it corresponds to. shown in the "highlights" image 
+    3. When looking at something like the computed tab you can see things such as margin space occupied on all sides and you can see how many px the text is. shown in the "computed" image
+    4. someone can alter the page for their viewing but its not permanent
+    5. it catches errors and shows where specifically in the code they are
+
+Cons:
+    1. I think a big con is how overwhelming and complex it can look and be
+    2. The errors it catches, i don't know what they mean and what they are
